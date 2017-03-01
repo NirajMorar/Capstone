@@ -1,2 +1,2 @@
 # Capstone
-Code for Capstone PRoject
+Code for Capstone Project
